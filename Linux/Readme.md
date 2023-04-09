@@ -6,3 +6,8 @@
 
 4. List all lines which have string `"enter"`from `"/usr/share/dict/words"` file and copy the lines in
 `/root/word.found`
+
+5. Configure a user account.
+    Create a user `iar` uid is `3400`. Password is redhat
+    Password: redhat -
+    The user's login shell should be non-interactive.
