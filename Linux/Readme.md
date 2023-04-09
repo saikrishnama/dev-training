@@ -21,6 +21,6 @@
     Find out all the columns that contains the string seismic within `/usr/share/dict/words`, then copy all these columns to `/root/lines.txt` in original      order, there is no blank line, all columns must be the accurate copy of the original columns.
     
 9. Create a backup -
-    Create a backup file named /root/backup.tar.bz2, contains the content of /usr/local, tar must use bzip2 to compress.
+    Create a backup file named `/root/backup.tar.bz2`, contains the content of `/usr/local`, tar must use `bzip2`to compress.
     
     
