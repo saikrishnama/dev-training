@@ -22,5 +22,8 @@
     
 9. Create a backup -
     Create a backup file named `/root/backup.tar.bz2`, contains the content of `/usr/local`, tar must use `bzip2`to compress.
+10.  Install the appropriate `Kernel` from the url `https://pkgs.org/download/kernel` . Your machine should
+    boot with `updated kernel`.
+    find the right kernel for your `os`
     
     
