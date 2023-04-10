@@ -1,3 +1,8 @@
+########
+Time: 1hr                                                                                                               No.of.Questions 9
+##########
+
+
 1.   Create a  user  called `alex` and 
      `alex` must configure a cron job that runs `daily at 14:23. and executes "/bin/echo "alex"` and 
       create a user called `peter` and deny the user `peter` for creating cronjob.
