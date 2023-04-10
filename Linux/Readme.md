@@ -1,6 +1,6 @@
-########
-Time: 1hr                                                                                                               No.of.Questions 9
-##########
+# #######
+# Time: 1hr                                                                                                               No.of.Questions 9
+# #########
 
 
 1.   Create a  user  called `alex` and 
@@ -20,8 +20,8 @@ place the file under `"/usr/share/dict/words"`
 
 5. Configure a user account.
     Create a user `mark` uid is `3400`. 
-    set the Password: Redhat@312
-    The user's login `shell` should be `non-interactive`.
+    set the Password: `Redhat@312`
+    The user's login ```shell``` should be `non-interactive`.
 
 6.  Add 3 users: `harry, maxwell, john`.
     The requirements: The Additional group of the two users: `harry, maxwell` is the `admin` group. The user: `john's` login shell should be `non-interactive`. 
