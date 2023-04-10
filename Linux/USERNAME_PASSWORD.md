@@ -3,14 +3,14 @@
   password: `NCMN0641tvcg`
   ipaddress: `3.84.11.193`
   new_password: `Redhat@312`
-
+  assigned:   vamshi
  
  #Studenent-2
   username: `cloud_user`
   password: `GDOM6314ifjx`
   ipaddress: `3.95.153.30`
   new_password: `Redhat@312`
-  `assigned: `kavya`
+  assigned: `kavya`
  
  #Studenent-3
   username: `cloud_user`
@@ -24,7 +24,7 @@
   password: `OXFT3083ncwj`
   ipaddress: `44.212.4.64`
   new_password: `Redhat@312`
-
+  assigned:   siva
 
 
  #Studenent-5
