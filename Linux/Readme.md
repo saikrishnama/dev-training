@@ -20,7 +20,7 @@ place the file under `"/usr/share/dict/words"`
 
 5. Configure a user account.
     Create a user `mark` uid is `3400`. 
-    set the Password: redhat
+    set the Password: Redhat@312
     The user's login `shell` should be `non-interactive`.
 
 6.  Add 3 users: `harry, maxwell, john`.
