@@ -31,7 +31,7 @@ place the file under `"/usr/share/dict/words"`
 7. Create a directory under `/opt` named `piller`. Its respective group is requested to be the `piller` group. The group users could `read and write, while other users are not allowed to access it`. The files created by users from the same group should also be the `piller group`.
 
 8. Create a backup -
-    Create a backup file named `/root/backup.tar.bz2`, contains the content of `/usr/local`, tar must use `zip`to compress.
+    Create a backup file named `/root/backup.tar.bz2`, contains the content of `/usr/local`, tar must use `gzip`to compress.
 
 9.  Install the appropriate `Kernel` from the url `https://pkgs.org/download/kernel` . Your machine should
     boot with `updated kernel`.
