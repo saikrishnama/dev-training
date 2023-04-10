@@ -10,12 +10,14 @@
   password: `GDOM6314ifjx`
   ipaddress: `3.95.153.30`
   new_password: `Redhat@312`
+  `assigned: `kavya`
  
  #Studenent-3
   username: `cloud_user`
   password: `IRGG4223hphh`
   ipaddress: `52.70.47.38`
   new_password: `Redhat@312`
+  assigned: `sreehas`
 
  #Studenent-4
   username: `cloud_user`
